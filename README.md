@@ -3,9 +3,8 @@
  Modul 4
  
  * Latihan 1 : Mendeklarasikan dan mencetak variabel
- 
- Berikut tampilan yang diharapkan sebagai hasil eksekusi program 
- Number = 10
+Berikut tampilan yang diharapkan sebagai hasil eksekusi program 
+Number = 10
  letter = a
  result = true
  str = hello 
